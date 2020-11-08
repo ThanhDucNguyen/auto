@@ -1,2 +1,3 @@
 # auto
-thao hoc auto
+thao hoc auto 
+ducnt edit
