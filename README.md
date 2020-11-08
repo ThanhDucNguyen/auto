@@ -1,2 +1,2 @@
 # auto
-thao hoc auto
+thao hoc auto haizz, chan ck
