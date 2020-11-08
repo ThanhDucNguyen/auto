@@ -1,2 +1,4 @@
 # auto
-thao hoc auto haizz, chan ck
+thao hoc auto
+trang
+duc
